@@ -38,62 +38,7 @@ No gloves, markers, or additional hardware are required.
 
 ---
 
-# 🖼 Screenshots
 
-## Main Interface
-
-> Replace these images after uploading them to your GitHub repository.
-
-
-<p align="center">
-
-<img src="images/screenshot1.png" width="700">
-
-</p>
-
----
-
-## Gesture Detection
-
-<p align="center">
-
-<img src="images/screenshot2.png" width="700">
-
-</p>
-
----
-
-## 3D Object Rendering
-
-<p align="center">
-
-<img src="images/screenshot3.png" width="700">
-
-</p>
-
----
-
-# 🎥 Demo GIF
-
-Upload a GIF named **demo.gif** into the repository.
-
-<p align="center">
-
-<img src="images/demo.gif" width="700">
-
-</p>
-
-A 10–20 second recording showing:
-
-* Hand tracking
-* Rotation
-* Scaling
-* Shape switching
-* Freeze gesture
-
-works perfectly.
-
----
 
 # 🎮 Controls
 
@@ -127,7 +72,7 @@ AR-Hand-Studio/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AR-Hand-Studio.git
+git clone https://abinjosemanavalan//ar-hand-speher.git
 ```
 
 Move into the project folder
