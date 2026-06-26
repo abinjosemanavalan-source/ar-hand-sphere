@@ -56,9 +56,9 @@ No gloves, markers, or additional hardware are required.
 # 🏗 Project Structure
 
 ```
-AR-Hand-Studio/
+ar-hand-sphere/
 │
-├── AR_Hand_Studio.py
+├── ar_hand_spere.py
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
